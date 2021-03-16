@@ -1,4 +1,4 @@
-# vue-cli
+# simple-quote-app
 
 > A Vue.js project
 
